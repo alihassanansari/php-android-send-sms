@@ -1,6 +1,6 @@
 # Sending sms from android device using PHP script
 An example showing PHP script sending sms using android device
-
+Machine running php script and android device must be on the same network
 # PHP side
 ```PHP
 $client = new SMSClient();
